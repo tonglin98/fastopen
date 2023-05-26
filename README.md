@@ -8,3 +8,6 @@
 - 双击移除单项
 - 全部清除
 - 全部启动
+
+### 预览图如下
+![image](https://github.com/tonglin98/fastopen/blob/master/rd.jpg)
