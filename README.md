@@ -9,5 +9,6 @@
 - 全部清除
 - 全部启动
 
-### 预览图如下
+### 预览图如下				        
 ![image](https://github.com/tonglin98/fastopen/blob/master/rd.jpg)
+![image](https://gitee.com/tonglin_site_0/fastopen/blob/master/rd.jpg)
